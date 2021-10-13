@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="63" it="0" lt="63" ct="27" ts="1634116119698" s="true" lb="POST PatentClass" rc="201" rm="Created" tn="ILS API  1-1" dt="text" by="478" sby="416" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/PatentClass</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1634116119762" s="true" lb="GET PatentClass" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="4193" sby="168" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/PatentClass</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="0" ct="0" ts="1634116119790" s="true" lb="PUT PatentClass" rc="204" rm="No Content" tn="ILS API  1-1" dt="" by="92" sby="505" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/PatentClass/f9815340-ffc6-41a0-8aef-f5eac651d525</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1634116119822" s="true" lb="Mapping Golongan" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1634116119823" s="true" lb="POST Mapping Golongan" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="357" sby="307" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/MappingGolonganAccess</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1634116119862" s="true" lb="GET Mapping Golongan" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="3044" sby="178" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/MappingGolonganAccess</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="0" ct="0" ts="1634116119887" s="true" lb="PUT Mapping Golongan" rc="204" rm="No Content" tn="ILS API  1-1" dt="" by="92" sby="395" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/MappingGolonganAccess/14da994d-2326-456a-9b50-6b587fc41349</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1634116119911" s="true" lb="Incoterms" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1634116119912" s="true" lb="POST Incoterms" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="290" sby="293" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/Incoterms</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1634116119931" s="true" lb="GET Incoterms" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="5609" sby="166" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/Incoterms</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="0" ct="0" ts="1634116119971" s="true" lb="PUT Incoterms" rc="204" rm="No Content" tn="ILS API  1-1" dt="" by="92" sby="381" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/Incoterms/f99153df-28ef-449a-ba26-7a426eb38290</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1634116120004" s="true" lb="AttachmentType" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1634116120004" s="true" lb="POST AttachmentType" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="394" sby="478" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/AttachmentType</java.net.URL>
+</httpSample>
+<httpSample t="612" it="0" lt="499" ct="0" ts="1634116120090" s="true" lb="GET AttachmentType" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="363260" sby="171" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/AttachmentType</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="0" ct="0" ts="1634116120702" s="true" lb="PUT AttachmentType" rc="204" rm="No Content" tn="ILS API  1-1" dt="" by="92" sby="497" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/AttachmentType/f16a70a0-dfba-471a-9eea-1a5a0a33f383</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1634116120721" s="true" lb="DocMapping" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1634116120721" s="true" lb="POST DocMapping" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="381" sby="350" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/DocMapping</java.net.URL>
+</httpSample>
+<httpSample t="538" it="0" lt="191" ct="0" ts="1634116120741" s="true" lb="GET DocMapping" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="293185" sby="167" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/DocMapping</java.net.URL>
+</httpSample>
+<httpSample t="214" it="0" lt="0" ct="0" ts="1634116121279" s="true" lb="PUT DocMapping" rc="204" rm="No Content" tn="ILS API  1-1" dt="" by="92" sby="436" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8228/api/DocMapping/e7882728-fe73-4b98-a719-11cb2d46bf25</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1634116121494" s="true" lb="DayOff" rc="200" rm="Number of samples in transaction : 0, number of failing samples : 0" tn="" dt="" by="0" sby="0" ng="0" na="0"/>
+<httpSample t="114" it="0" lt="114" ct="9" ts="1634116121495" s="true" lb="POST DayOff" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="385" sby="360" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8227/api/DayOff</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="0" ct="0" ts="1634116121610" s="true" lb="PUT DayOff" rc="204" rm="No Content" tn="ILS API  1-1" dt="" by="92" sby="428" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8227/api/DayOff/edbeaa10-e772-43b8-87a3-108c0357f55c</java.net.URL>
+</httpSample>
+<httpSample t="744" it="0" lt="72" ct="0" ts="1634116121632" s="true" lb="GET DayOff" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="1651570" sby="163" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8227/api/DayOff</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1634116122377" s="true" lb="GET DayOff by ID" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="418" sby="200" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8227/api/DayOff/3a0fedea-d56c-4b15-940b-2e2b3e51188b</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1634116122405" s="true" lb="GET DayOff by Company Code" rc="200" rm="OK" tn="ILS API  1-1" dt="text" by="7470" sby="174" ng="1" na="1">
+  <java.net.URL>http://10.100.4.116:8227/api/DayOff/Company/00</java.net.URL>
+</httpSample>
+
+</testResults>
